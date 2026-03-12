@@ -64,7 +64,15 @@ The system is designed as an open-source framework. We invite developers, scient
 
 ## 4. Goal (Exit Strategy)
 
-The system will be successful when it becomes **obsolete**: once global equality and scientific rationality have become the standard for human civilization, the OS will have fulfilled its purpose.
+​The system will be successful when it becomes obsolete. The OS is designed to self-terminate once the global system state satisfies the Zero Entropy Condition:
+
+- **​Elimination of the Albert Einstein Loss:** The damping factor of human potential reaches zero. No innovation or talent is lost to systemic inequality.
+
+- **​Resolution of Rational Inconsistency:** Scientific and statistical literacy ensures that citizens no longer vote against their own quantifiable interests.
+
+- **​Systemic Stability:** Automated correction processes (L2) and scientific audits (L3) no longer detect significant deviations (±3%), rendering active governance redundant.
+
+​Once global equality and scientific rationality have become the default "hardware" of human civilization, the OS will have fulfilled its purpose and shut down.
 
 ---
 
