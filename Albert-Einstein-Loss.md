@@ -36,8 +36,8 @@ Any form of **bias** (racism, sexism, classism) functions physically as an **ins
 
 When a protocol (law) is submitted at Layer 4, the UWA-Linter executes the following validation:
 
-Potential Check: "Does this measure increase the efficiency (sigma) of the affected 20-Watt units?"
+1. Potential Check: "Does this measure increase the efficiency (sigma) of the affected 20-Watt units?"
 
-Entropy Audit: "Does the implementation of this measure consume more energy via administration/repression than it generates in cognitive output?"
+2. Entropy Audit: "Does the implementation of this measure consume more energy via administration/repression than it generates in cognitive output?"
 
-Constraint: If the measure increases the Albert Einstein Loss (L_AE) -> HARD_FAIL -> STATUS: DENIED.
+3. Constraint: If the measure increases the Albert Einstein Loss (L_AE) -> HARD_FAIL -> STATUS: DENIED.
