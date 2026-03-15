@@ -82,11 +82,24 @@ This is where the actual programs run (e.g., education reforms, climate protecti
 
 The system is designed as an open-source framework. We invite developers, scientists, and citizens to collaborate on the following modules:
 
-- **System architects:** Refining the statistical selection algorithms.
-    
-- **Security auditors (ISAC):** Establishment of scientific review bodies.
-
-- **UI/UX designers:** Translation of complex data into understandable citizen dashboards.
+- **System Architects & Core Developers:**
+    * Refining the statistical selection algorithms within the **Voting Core (L2)**.
+    * Implementing kernel logic to validate Pull Requests against the axioms (Mathematics, Physics, Equality).
+- **Security Auditors (ISAC) & Scientists:**
+    * Establishing scientific review bodies for the **Linter/Compiler (L3)**.
+    * Validating the technological and physical feasibility of policy proposals (PRs).
+- **Computer Scientists & Data Engineers:**
+    * Ensuring data integrity in **L0 (Quantitative Metrology)** to prevent aliasing and information loss.
+    * Optimizing sampling rates ($f_s > 2 \cdot f_{max}$) for precise feedback loops.
+- **UI/UX Designers & Visualization Experts:**
+    * Translating complex datasets into intuitive, accessible citizen dashboards.
+    * Minimizing the **Albert Einstein Loss** through the clear representation of systemic correlations.
+- **Technicians & Hardware Specialists:**
+    * Calibrating physical interfaces between material reality and digital logic (**L0**).
+    * Ensuring the required measurement accuracy of $\epsilon < 3\%$ to maintain systemic stability.
+- **Universal Participation:**
+    * **Open-Source Collaboration:** Any form of contribution that aids in achieving the **Zero Entropy Condition** is explicitly welcomed.
+    * The framework is designed for broad civic participation to replace political arbitrariness with scientific integrity.
 
 ---
 
