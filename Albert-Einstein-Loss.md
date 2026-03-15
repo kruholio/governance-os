@@ -34,10 +34,10 @@ Any form of **bias** (racism, sexism, classism) functions physically as an **ins
 
 ### Application in Code Audit (Linter Logic)
 
-When a protocol (law) is submitted at **Layer 4**, the **UWA-Linter** executes the following validation:
+When a protocol (law) is submitted at Layer 4, the UWA-Linter executes the following validation:
 
-1. **Potential Check:** "Does this measure increase the efficiency $\sigma$ of the affected 20-Watt units?"
-    
-2. **Entropy Audit:** "Does the implementation of this measure consume more energy via administration/repression than it generates in cognitive output?"
-    
-3. **Constraint:** If the measure increases $L_{AE} \implies \text{HARD\_FAIL} \implies \text{STATUS: DENIED}$.
+Potential Check: "Does this measure increase the efficiency (sigma) of the affected 20-Watt units?"
+
+Entropy Audit: "Does the implementation of this measure consume more energy via administration/repression than it generates in cognitive output?"
+
+Constraint: If the measure increases the Albert Einstein Loss (L_AE) -> HARD_FAIL -> STATUS: DENIED.
