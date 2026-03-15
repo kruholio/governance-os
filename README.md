@@ -40,7 +40,7 @@ The transformation of continuous societal processes into discrete "Pull Requests
 
 - **Noise Filtering:** Political arbitrariness is treated as statistical noise. The **ISAC (L3)** acts as  a low-pass filter to ensure only signal (evidence-based data) reaches the application layer.
 
-#### **Libraries and sources must be defined before a branch is loaded.**
+### Libraries, sources, and potential data quality limitations must be defined and named at the inception of a branch; otherwise, the system will not maintain a stable state.
 
 ---
 ### L1: The Kernel (Axioms & Logic)
