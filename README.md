@@ -77,8 +77,19 @@ Politics is carried out here as a **scientific experiment protocol**:
 This is where the actual programs run (e.g., education reforms, climate protection policies). This layer is highly agile and is constantly validated by real-world data.
 
 ---
+## 3. Goal (Exit Strategy)
 
-## 3. Installation & Participation
+​The system will be successful when it becomes obsolete. The OS is designed to self-terminate once the global system state satisfies the Zero Entropy Condition:
+
+- **​Elimination of the Albert Einstein Loss:** The damping factor of human potential reaches zero. No innovation or talent is lost to systemic inequality.
+
+- **​Resolution of Rational Inconsistency:** Scientific and statistical literacy ensures that citizens no longer vote against their own quantifiable interests.
+
+- **​Systemic Stability:** Automated correction processes (L2) and scientific audits (L3) no longer detect significant deviations (±3%), rendering active governance redundant.
+
+
+---
+## 4. Installation & Participation
 
 The system is designed as an open-source framework. We invite developers, scientists, and citizens to collaborate on the following modules:
 
@@ -100,18 +111,6 @@ The system is designed as an open-source framework. We invite developers, scient
 - **Universal Participation:**
     * **Open-Source Collaboration:** Any form of contribution that aids in achieving the **Zero Entropy Condition** is explicitly welcomed.
     * The framework is designed for broad civic participation to replace political arbitrariness with scientific integrity.
-
----
-
-## 4. Goal (Exit Strategy)
-
-​The system will be successful when it becomes obsolete. The OS is designed to self-terminate once the global system state satisfies the Zero Entropy Condition:
-
-- **​Elimination of the Albert Einstein Loss:** The damping factor of human potential reaches zero. No innovation or talent is lost to systemic inequality.
-
-- **​Resolution of Rational Inconsistency:** Scientific and statistical literacy ensures that citizens no longer vote against their own quantifiable interests.
-
-- **​Systemic Stability:** Automated correction processes (L2) and scientific audits (L3) no longer detect significant deviations (±3%), rendering active governance redundant.
 
 ​Once global equality and scientific rationality have become the default "hardware" of human civilization, the OS will have fulfilled its purpose and shut down.
 
