@@ -27,7 +27,7 @@ To maintain scientific integrity, all PRs must follow this schema:
 
 Each PR must include a brief mathematical derivation showing that the change reduces the **Albert Einstein Loss** ($L_{AE}$):
 
-$$L_{AE} = \sum_{i=1}^{N} \int (P_H \cdot \sigma_i(t)) \, dt \rightarrow \text{min}$$
+$$L_{AE} = \sum_{i=1}^{N} \int_{t_0}^{t_1} \left( P_H \cdot (1 - \sigma_i(t)) \right) dt \rightarrow \min$$
 
 Demonstrate that the efficiency coefficient ($\sigma$) of the affected "20-Watt units" increases through your proposal.
 
