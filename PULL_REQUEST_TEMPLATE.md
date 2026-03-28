@@ -27,7 +27,7 @@ _Check all that apply. If any remain unchecked, the PR will be automatically rej
 
 Provide the mathematical proof that this PR reduces systemic entropy:
 
-- **Formula:** $L_{AE} = \sum_{i=1}^{N} \int (P_H \cdot \sigma_i(t)) \, dt \rightarrow \text{min}$
+- **Formula:** $$L_{AE} = \sum_{i=1}^{N} \int_{t_0}^{t_1} \left( P_H \cdot (1 - \sigma_i(t)) \right) dt \rightarrow \min$$
     
 - **Derivation:** (Explain how your change increases the efficiency coefficient $\sigma$ for the affected population).
     
