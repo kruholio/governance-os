@@ -18,7 +18,7 @@ $$L_{AE} = \sum_{i=1}^{N} \int_{t_0}^{t_1} \left( P_H \cdot (1 - \sigma_i(t)) \r
     
 - $\sigma_i(t)$: Efficiency coefficient of individual $i$ at time $t$.
     
-- $\sigma \in [0, 1]$: A value driven toward $1$ by systemic barriers (poverty, discrimination, caloric deficit).
+- $\sigma \in [0, 1]$: A value driven toward $0$ by systemic barriers (poverty, discrimination, caloric deficit).
     
 
 ### 3. Thermodynamic Optimization (Axiom 3)
