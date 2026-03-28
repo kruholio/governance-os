@@ -12,13 +12,13 @@ This constant serves as the physical equivalent of human dignity. It remains ind
 
 The **Albert Einstein Loss** describes the delta between systemically available total power and the cognitive work actually harnessed for the species.
 
-$$L_{AE} = \sum_{i=1}^{N} \int (P_H \cdot \sigma_i(t)) \, dt$$
+$$L_{AE} = \sum_{i=1}^{N} \int_{t_0}^{t_1} \left( P_H \cdot (1 - \sigma_i(t)) \right) dt \rightarrow \min$$
 
 - $N$: Total population.
     
 - $\sigma_i(t)$: Efficiency coefficient of individual $i$ at time $t$.
     
-- $\sigma \in [0, 1]$: A value driven toward $0$ by systemic barriers (poverty, discrimination, caloric deficit).
+- $\sigma \in [0, 1]$: A value driven toward $1$ by systemic barriers (poverty, discrimination, caloric deficit).
     
 
 ### 3. Thermodynamic Optimization (Axiom 3)
