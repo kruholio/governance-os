@@ -1,4 +1,93 @@
 # governance-os
+Project Status
+
+«[!warning] v0.1.0-alpha — Research and Systems Architecture Draft
+
+governance-os is an open-source research and systems-architecture proposal for evidence-informed democratic governance. It is neither a finished political system nor an empirically validated theory.
+
+Normative principles are declared premises. Metrics, thresholds, algorithms, institutional mechanisms, and mathematical models remain provisional until they have been formally specified, simulated, legally reviewed, empirically tested, and independently reproduced.»
+
+Research Objective
+
+governance-os investigates whether political institutions can be designed and evaluated as observable, version-controlled, auditable, adaptive, and fault-tolerant socio-technical systems.
+
+The project treats a policy as a testable intervention:
+
+[
+\text{Problem}
+\rightarrow
+\text{Hypothesis}
+\rightarrow
+\text{Policy Proposal}
+\rightarrow
+\text{Scientific Review}
+\rightarrow
+\text{Controlled Deployment}
+\rightarrow
+\text{Measurement}
+\rightarrow
+\text{Evaluation}
+\rightarrow
+\text{Correction}
+]
+
+The purpose of this repository is to develop, challenge, simulate, and progressively validate this architecture.
+
+Scope and Scientific Boundary
+
+The project does not claim that science can determine political values.
+
+- Democracy and ethics define objectives, fundamental rights, and acceptable trade-offs.
+- Science evaluates evidence, models, uncertainty, feasibility, and expected consequences.
+- Systems engineering defines interfaces, feedback loops, observability, failure handling, and revision procedures.
+- Open-source development provides transparency, traceability, peer review, and reproducibility.
+
+Scientific review must evaluate the factual and methodological basis of a proposal. It must not replace democratic legitimacy or constitutional rights.
+
+Alpha Limitations
+
+Version "v0.1.0-alpha" currently contains a conceptual architecture only. It does not yet provide:
+
+- a production-ready implementation;
+- empirically validated governance algorithms;
+- operationally defined social metrics;
+- a validated Albert Einstein Loss function;
+- a complete uncertainty model;
+- constitutional or statutory authorization;
+- a deployed Voting Core;
+- an operational Independent Scientific Audit Council;
+- evidence that the complete system produces better outcomes than existing institutions.
+
+All current mechanisms remain open to falsification, revision, replacement, or removal.
+
+Statement Classification
+
+Every substantial project statement should use one of the following labels:
+
+- "[NORMATIVE PRINCIPLE]" — an explicitly chosen ethical or constitutional premise;
+- "[HYPOTHESIS]" — an empirically testable claim;
+- "[REQUIREMENT]" — a proposed technical or institutional constraint;
+- "[METRIC]" — an operationally defined measurable quantity;
+- "[MODEL]" — a formal representation with stated assumptions;
+- "[OPEN ISSUE]" — an unresolved question or known limitation;
+- "[VALIDATED]" — a claim supported by documented and reproducible evidence;
+- "[DEPRECATED]" — a rejected or superseded component retained for traceability.
+
+A statement must not be classified as "[VALIDATED]" without documented evidence, uncertainty analysis, reproducible methods, and independent review.
+
+Development Principle
+
+The architecture must be treated like safety-critical software:
+
+«No untested assumption becomes a system invariant.
+No metric becomes an objective without an adversarial review.
+No policy becomes irreversible without explicit risk analysis.
+No scientific body may override fundamental rights or democratic legitimacy.»
+
+The project succeeds scientifically when its mechanisms remain testable, its failures remain visible, and its architecture can improve through evidence.
+
+
+
 
 ## 1. Abstract
 
